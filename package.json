@@ -10,7 +10,13 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "tinacms": "^2.8.2"
+    "@tinacms/datalayer": "^1.4.1",
+    "mongodb": "^6.19.0",
+    "mongodb-level": "^0.0.4",
+    "next-auth": "^4.24.11",
+    "tinacms": "^2.8.2",
+    "tinacms-authjs": "^11.0.2",
+    "tinacms-gitprovider-github": "^3.0.1"
   },
   "devDependencies": {
     "@tinacms/cli": "^1.10.2",
